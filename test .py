@@ -20,6 +20,6 @@ r = myfunctio(4, 17)
 
 myString = "Baldock"
 BALDOCK = myString.lower()
-for r in range(1, 100):
+for r in range(1, 21):
     print r
 print BALDOCK
